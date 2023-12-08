@@ -1,0 +1,165 @@
+.qs-container{
+    position:relative;
+    border:6px solid red;
+    margin-top: 9px;
+    margin-left:0px;
+    color:blue;
+    height:730px;
+    width:1497px;
+   
+}
+.img{
+    position: absolute;
+    background-image: url('./pexels-photo-70497.jpeg');
+    width:1497px;
+    height:420px;
+}
+.login{
+    position: absolute;
+    color: azure;
+    margin-top:16px;
+    margin-left:1261px;
+    font-size: larger;
+}
+.create{
+    position: absolute;
+    color:azure;
+    margin-top:15px;
+    margin-left:1338px;
+    font-size: larger;
+    border:2px solid white;
+}
+.logo{
+    position: absolute;
+    margin-top: 139px;
+    color:red;
+    border-radius: 118px;
+    background-color: azure;
+    margin-left: 549px;
+    padding-left:11px;
+    height:63px;
+    width:50px;
+    font-size:xx-large;
+}
+.head{
+    position: absolute;
+    margin-top:193px;
+    margin-left:347px;
+    color:azure;
+}
+.sel{
+    position: absolute;
+    margin-top: 275px;
+    margin-left: 342px;
+}
+.search{
+    position:absolute;
+    margin-top: 275px;
+    margin-left: 484px;
+}
+.quick{
+    position: absolute;
+    margin-top:410px;
+    margin-left: 80px;
+}
+.discover{
+    position:absolute;
+    margin-left: 85px;
+    margin-top: 464px;
+    color:grey;
+}
+.box{
+    position: absolute;
+    border:2px solid white;
+    width: 377px;
+    height:187px;
+    margin-top:530px;
+    box-shadow: 0 3px 6px 0;
+    background-color: white;
+    color: black;
+}
+.img1{
+    margin-top: 4px;
+    margin-left:3px;
+    position: absolute;
+    height:177px;
+    width: 108px;
+    background-image: url('./home.png');
+}
+.break{
+    position:absolute;
+    margin-top: 17px;
+    margin-left: 136px;
+}
+.anmol{
+    position: absolute;
+    margin-left: 126px;
+    margin-top: 70px;
+    color:gray
+}
+.box1{
+    position: absolute;
+    border:2px solid azure;
+    width:388px;
+    height:190px;
+    margin-top:531px;
+    margin-left:396px;
+    box-shadow:0 3px 6px 0px;
+    background-color: white;
+    color:black;
+}
+.img2{
+    position: absolute;
+    height:180px;
+    width:124px;
+    margin-top: 4px;
+    margin-left: 3px;
+    background-image: url('./pexels-photo-70497.jpeg');
+}
+.lunch{
+    position: absolute;
+    margin-top: 11px;
+    margin-left: 191px;
+}
+.star{
+    position: absolute;
+    margin-top: 65px;
+    margin-left: 153px;
+    color:gray;
+}
+.box2{
+    position: absolute;
+    width:426px;
+    border:2px solid azure;
+    height:195px;
+    background-color: white;
+    margin-top: 531px;
+    margin-left: 818px;
+    color: black;
+    box-shadow: 0 3px 6px 0;
+}
+.img3{
+    position: absolute;
+    width:126px;
+    height:180px;
+    margin-top: 3px;
+    background-image: url('./pexels-photo-1109197.jpeg');
+}
+.dinner{
+    position: absolute;
+    margin-top: 21px;
+    margin-left: 208px;
+}
+.st{
+    position: absolute;
+    margin-top: 73px;
+    margin-left:156px;
+    color:gray;
+}
+
+
+
+
+
+
+
